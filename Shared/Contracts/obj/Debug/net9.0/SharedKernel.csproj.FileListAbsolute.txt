@@ -1,0 +1,11 @@
+D:\Projects\Todo.Microservices\Shared\Contracts\bin\Debug\net9.0\SharedKernel.deps.json
+D:\Projects\Todo.Microservices\Shared\Contracts\bin\Debug\net9.0\SharedKernel.dll
+D:\Projects\Todo.Microservices\Shared\Contracts\bin\Debug\net9.0\SharedKernel.pdb
+D:\Projects\Todo.Microservices\Shared\Contracts\obj\Debug\net9.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Todo.Microservices\Shared\Contracts\obj\Debug\net9.0\SharedKernel.AssemblyInfoInputs.cache
+D:\Projects\Todo.Microservices\Shared\Contracts\obj\Debug\net9.0\SharedKernel.AssemblyInfo.cs
+D:\Projects\Todo.Microservices\Shared\Contracts\obj\Debug\net9.0\SharedKernel.csproj.CoreCompileInputs.cache
+D:\Projects\Todo.Microservices\Shared\Contracts\obj\Debug\net9.0\SharedKernel.dll
+D:\Projects\Todo.Microservices\Shared\Contracts\obj\Debug\net9.0\refint\SharedKernel.dll
+D:\Projects\Todo.Microservices\Shared\Contracts\obj\Debug\net9.0\SharedKernel.pdb
+D:\Projects\Todo.Microservices\Shared\Contracts\obj\Debug\net9.0\ref\SharedKernel.dll

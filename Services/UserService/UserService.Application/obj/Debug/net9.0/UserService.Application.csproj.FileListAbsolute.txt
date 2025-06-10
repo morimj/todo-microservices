@@ -1,0 +1,17 @@
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\bin\Debug\net9.0\UserService.Application.deps.json
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\bin\Debug\net9.0\UserService.Application.dll
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\bin\Debug\net9.0\UserService.Application.pdb
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\bin\Debug\net9.0\SharedKernel.dll
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\bin\Debug\net9.0\UserService.Domain.dll
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\bin\Debug\net9.0\UserService.Domain.pdb
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\bin\Debug\net9.0\SharedKernel.pdb
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\UserService.Application.csproj.AssemblyReference.cache
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\UserService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\UserService.Application.AssemblyInfoInputs.cache
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\UserService.Application.AssemblyInfo.cs
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\UserService.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\UserServ.9A0DA653.Up2Date
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\UserService.Application.dll
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\refint\UserService.Application.dll
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\UserService.Application.pdb
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Application\obj\Debug\net9.0\ref\UserService.Application.dll

@@ -1,0 +1,17 @@
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\bin\Debug\net9.0\TaskService.Application.deps.json
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\bin\Debug\net9.0\TaskService.Application.dll
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\bin\Debug\net9.0\TaskService.Application.pdb
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\bin\Debug\net9.0\SharedKernel.dll
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\bin\Debug\net9.0\TaskService.Domain.dll
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\bin\Debug\net9.0\TaskService.Domain.pdb
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\bin\Debug\net9.0\SharedKernel.pdb
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\TaskService.Application.csproj.AssemblyReference.cache
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\TaskService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\TaskService.Application.AssemblyInfoInputs.cache
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\TaskService.Application.AssemblyInfo.cs
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\TaskService.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\TaskServ.82EEA97C.Up2Date
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\TaskService.Application.dll
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\refint\TaskService.Application.dll
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\TaskService.Application.pdb
+D:\Projects\Todo.Microservices\Services\TaskService\TaskService.Application\obj\Debug\net9.0\ref\TaskService.Application.dll

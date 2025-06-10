@@ -1,0 +1,15 @@
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\bin\Debug\net9.0\UserService.Domain.deps.json
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\bin\Debug\net9.0\UserService.Domain.dll
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\bin\Debug\net9.0\UserService.Domain.pdb
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\bin\Debug\net9.0\SharedKernel.dll
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\bin\Debug\net9.0\SharedKernel.pdb
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\UserService.Domain.csproj.AssemblyReference.cache
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\UserService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\UserService.Domain.AssemblyInfoInputs.cache
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\UserService.Domain.AssemblyInfo.cs
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\UserService.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\UserServ.A0DBE7DD.Up2Date
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\UserService.Domain.dll
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\refint\UserService.Domain.dll
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\UserService.Domain.pdb
+D:\Projects\Todo.Microservices\Services\UserService\UserService.Domain\obj\Debug\net9.0\ref\UserService.Domain.dll
