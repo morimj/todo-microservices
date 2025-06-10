@@ -16,7 +16,7 @@ The goal of the project is to demonstrate how to structure microservices with **
 
 ### UserService
 -  Clean Architecture + DDD Principles
-- 🗄 SQL Server + Entity Framework Core
+-  SQL Server + Entity Framework Core
 
 ### TaskService
 -  Clean Architecture + DDD Principles
