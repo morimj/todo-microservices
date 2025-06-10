@@ -7,24 +7,24 @@ The goal of the project is to demonstrate how to structure microservices with **
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 ### General
-- 🐳 Docker (multi-container with `docker-compose`)
-- 📬 RabbitMQ (for event-driven messaging between services)
-- 📘 Swagger (for API documentation)
+-  Docker (multi-container with `docker-compose`)
+-  RabbitMQ (for event-driven messaging between services)
+-  Swagger (for API documentation)
 
 ### UserService
-- 🧼 Clean Architecture + DDD Principles
-- 🗄️ SQL Server + Entity Framework Core
+-  Clean Architecture + DDD Principles
+- 🗄 SQL Server + Entity Framework Core
 
 ### TaskService
-- 🧼 Clean Architecture + DDD Principles
-- 🍃 MongoDB
+-  Clean Architecture + DDD Principles
+-  MongoDB
 
 ---
 
-## 📡 Communication
+##  Communication
 
 - The services communicate **asynchronously** using **RabbitMQ**.
 - When a new task is created in `TaskService`, an event (`TaskCreated`) is published.
@@ -32,7 +32,7 @@ The goal of the project is to demonstrate how to structure microservices with **
 
 ---
 
-## 🧪 Running the Project
+##  Running the Project
 
 ```bash
 docker-compose up --build
