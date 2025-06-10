@@ -1,4 +1,3 @@
-# todo-microservices
 # 🧩 Todo Microservices (Mini Project)
 
 This is a **very small microservices-based Todo application** built with .NET.  
